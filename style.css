@@ -1,0 +1,42 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+.about-sec{
+	background-image:url(images/image.jpg);
+	background-size:cover;
+	background-position:top center;
+	height:500px;
+}
+
+
+.container{
+	height:500px;
+	color:white;
+	background-color:rgb(0, 0, 0);
+	background-color:rgba(0, 0, 0, 0.5);
+}
+
+h1{
+	padding:150px 0 0 100px;
+	font-size:50px;
+	font-weight:bold;
+}
+
+.para-about{
+	margin:20px 0 40px 100px;
+	font-size:22px;
+	font-family: 'Raleway', sans-serif;
+}
+
+.start-link{
+
+	border:2px solid;
+	padding:10px 40px;
+	margin-left:100px;
+	color:white;
+	text-decoration:none;
+	border-radius:25px;
+}
